@@ -1,2 +1,2 @@
 # delta-student
-this is a project based mission
+this is a project based mission.
